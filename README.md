@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sg6418" target="blank"><img src="https://img.shields.io/twitter/follow/sg6418?logo=twitter&style=for-the-badge" alt="sg6418" /></a> </p>
 
-- 🌱 I’m currently learning **Numpy Pandas**
+- 🌱 I’m currently learning **Backend And Machine Learning**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Shivamgupta6418](https://hashnode.com/@Shivamgupta6418)
 
