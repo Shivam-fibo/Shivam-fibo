@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sg641818@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aoxrTzrwfzcKB7n2q-wRH0WYgWKsZdr8/view?usp=sharing](https://drive.google.com/file/d/1aoxrTzrwfzcKB7n2q-wRH0WYgWKsZdr8/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1aoxrTzrwfzcKB7n2q-wRH0WYgWKsZdr8/view?usp=sharing](https://docs.google.com/document/d/1yK9WsncJdGQlHNB1m7hsnn8id1dPRpo1jVn9NwerRqY/edit)](https://drive.google.com/file/d/1aoxrTzrwfzcKB7n2q-wRH0WYgWKsZdr8/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
