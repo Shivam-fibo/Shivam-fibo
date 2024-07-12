@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sg641818@gmail.com**
 
-- 📄 Resume:  [[[https://drive.google.com/file/d/1aoxrTzrwfzcKB7n2q-wRH0WYgWKsZdr8/view?usp=sharing]](https://docs.google.com/document/d/1yK9WsncJdGQlHNB1m7hsnn8id1dPRpo1jVn9NwerRqY/edit)
+- 📄 Resume:  [https://docs.google.com/document/d/1ehrTxVuN08mGATotCvTT_-eKQvhyqzdkxRKw8NhYt88/edit]
 - 🎉 Portfolio : [shivamkgupta.vercel.app](https://shivamkgupta.vercel.app/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-fibo&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-fibo" /> </p>
