@@ -1,30 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar Gupta</h1>
-<h3 align="center">Hello this is Shivam Gupta, Welcome you to my github page</h3>
 
 
-
-- 🌱 I’m currently learning **DSA, Backend And Machine Learning**
-
-- 📝 I regularly write articles on [https://hashnode.com/@Shivamgupta6418](https://hashnode.com/@Shivamgupta6418)
-
-- 💬 Ask me about **React, NodeJs**
-
-- 📫 How to reach me **sg641818@gmail.com**
-
-- 📄 Resume:  [https://docs.google.com/document/d/1ehrTxVuN08mGATotCvTT_-eKQvhyqzdkxRKw8NhYt88/edit]
-- 🎉 Portfolio : [shivamkgupta.vercel.app](https://shivamkgupta.vercel.app/)
+- 📄 Resume:  [https://drive.google.com/file/d/1xo062nPY1TEfHEgUDACY448bGKIq_wwn/]
+- 🎉 Portfolio : [shivamgupta.space](https://shivamgupta.space/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-fibo&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-fibo" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/sg6418" target="blank"><img src="https://img.shields.io/twitter/follow/sg6418?logo=twitter&style=for-the-badge" alt="sg6418" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sg6418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sg6418" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamgupta6418/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamgupta6418/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@shivamgupta6418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@shivamgupta6418" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sg641jw4b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sg641jw4b" height="30" width="40" /></a>
 <a href="https://discord.gg/Shivamgupta6418#8585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shivamgupta6418#8585" height="30" width="40" /></a>
 </p>
 
