@@ -1,27 +1,86 @@
-<h1 align="center">Hi 👋, I'm Shivam Kumar Gupta</h1>
+# Shivam Kumar Gupta
 
+Computer Science Student specializing in Artificial Intelligence at Chhatrapati Shahu Ji Maharaj University (2021-2025)
 
-- 📄 Resume:  [https://drive.google.com/file/d/1xo062nPY1TEfHEgUDACY448bGKIq_wwn/]
-- 🎉 Portfolio : [shivamgupta.space](https://shivamgupta.space/)
+## About Me
+I'm a passionate software developer with experience in full-stack development and a strong foundation in programming languages like C++, Python, and JavaScript. Currently pursuing my Bachelor's in Computer Science with a focus on Artificial Intelligence.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-fibo&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-fibo" /> </p>
+## Contact Information
+- Email: sg641818@gmail.com
+- Phone: +91 7355400703
+- Location: Kanpur, India
+- Portfolio: [shivamgupta.space](https://shivamgupta.space/)
+- Resume: [View Resume](https://drive.google.com/file/d/1xo062nPY1TEfHEgUDACY448bGKIq_wwn/)
 
+## Connect with Me
+- LinkedIn: [linkedin.com/in/shivamgupta6418](https://www.linkedin.com/in/shivamgupta6418/)
+- Twitter: [@sg6418](https://twitter.com/sg6418)
+- Discord: Shivamgupta6418#8585
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sg6418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sg6418" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamgupta6418/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamgupta6418/" height="30" width="40" /></a>
-<a href="https://discord.gg/Shivamgupta6418#8585" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shivamgupta6418#8585" height="30" width="40" /></a>
-</p>
+## Technical Skills
+
+### Programming Languages
+C++, Python, JavaScript, SQL
+
+### Frameworks & Technologies
+React, Next.js, Node.js, Express.js, TailwindCSS, Bootstrap, FastAPI, Flask
+
+### Databases
+MongoDB, MySQL
+
+### Tools & Platforms
+Git, GitHub, Postman, REST API, VS Code, Stripe API, Zoho Flow, ZeptoMail
+
+### Web Technologies
+HTML5, CSS3, Responsive Design
+
+## Professional Experience
+
+### Software Developer Intern | Automate Accounts (Dec 2024 - April 2025)
+- Developed and deployed the Deductible Buydown Application using Python, FastAPI, Flask, and Jinja2
+- Implemented CSV file upload and parsing for bulk data entry
+- Integrated secure authentication with user-specific flows
+- Automated workflows using Zoho Flow and ZeptoMail for real-time transactional emails
+- Enabled continuous deployment via CI/CD pipelines
+
+### Web Developer Intern | Bambhari (Jun 2023 - Aug 2023)
+- Contributed to the development of a user-friendly website creation tool with drag-and-drop features
+- Added 15+ new features and introduced a user-centric approach to streamline UI components
+- Improved user experience, boosting conversion rates and reducing bounce rates
+
+## Projects
+
+### Jobify
+A comprehensive job portal with features tailored for both employers and job seekers.
+- Developed job search, advanced filtering, application submission, and resume upload functionalities
+- Enhanced usability through role-based access for employers, recruiters, and job seekers
+- Integrated secure authentication and implemented robust job posting and user management
+- GitHub: [View Project](https://github.com/shivam-fibo/jobify)
+
+### FoxQuiz
+An admin-user quiz management platform built with real-time tracking and persistent data handling.
+- Designed portals for quiz creation, result tracking, and feedback collection
+- Built real-time tracking for quiz submissions and ensured data persistence
+- Implemented dynamic data fetching, server-side pagination, and smooth user interactions
+- GitHub: [View Project](https://github.com/shivam-fibo/foxquiz)
+
+## Achievements & Activities
+- Written 10+ technical articles on Hashnode
+- Solved 200+ coding questions on platforms like LeetCode and GeeksforGeeks
+- Active contributor to open-source projects
+
+## GitHub Statistics
+
+<img src="https://komarev.com/ghpvc/?username=shivam-fibo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 [![wakatime](https://wakatime.com/badge/user/018cc8ff-47fd-4d24-84c0-fc0646da2f86.svg)](https://wakatime.com/@018cc8ff-47fd-4d24-84c0-fc0646da2f86)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-fibo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=shivam-fibo&show_icons=true&locale=en" alt="GitHub Stats" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-fibo&show_icons=true&locale=en&layout=compact" alt="shivam-fibo" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-fibo&" alt="GitHub Streak" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam-fibo&show_icons=true&locale=en" alt="shivam-fibo" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-fibo&" alt="shivam-fibo" /></p>
+Always open to discussing new opportunities and collaborating on interesting projects!
